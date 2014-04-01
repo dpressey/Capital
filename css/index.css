@@ -1,0 +1,53 @@
+h1 {
+	position: relative;
+	left: 35%;
+	color: black;
+}
+
+h3 {
+	position: relative;
+	left: 37%;
+	top: -15px;
+}
+
+p {
+	position: relative;
+	top: 110px;
+	left: 30%;
+	color: #FF0006;
+	font-size: 2rem;
+}
+
+div {
+	position: relative;
+	left: 31%;
+	top: 100px;
+}
+
+button {
+	position: relative;
+	top: 150px;
+	left: 45%;
+	color: white;
+	background-color: #01A1E8;
+	padding: 0.4rem 0.4rem 0.4rem 1.1rem;
+	border: solid 0.1rem #e8e8e8;
+	width: 250px;
+	border-radius: 10px;
+}
+
+.label{
+	padding:5px;
+    color:black;
+    font-size: 14px;
+    margin: 10px;
+    vertical-align:top;
+}
+
+#container {
+	position: relative;
+	left: 17%;
+	height: 500px;
+	width:659px;
+}
+	
